@@ -1,2 +1,2 @@
 # SimpleSecureMail
-Messaging system developed for the Capstone Project of the Cybersecurity Specialization from Coursera / University of Maryland
+Messaging system developed for the Capstone Project of the Cybersecurity Specialization by Coursera / University of Maryland (2021)
